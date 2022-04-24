@@ -135,5 +135,41 @@ button {
 .author {
     font-size: 28px;
 }
+.art_4 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.art4_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    width: 800px;
+    height: 180px;
+    border-radius: 10px;
+}
+.act-wrap {
+    padding: 60px;
+}
+.p-1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px;
+}
+.p-2 {
+    padding: 5px;
+    color: rgb(225, 218, 218);
+}
+
+.button_wrap {
+    padding: 30px;
+    
+}
+.art4-button {
+    border: 2px solid white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.353);
+}
 
 
